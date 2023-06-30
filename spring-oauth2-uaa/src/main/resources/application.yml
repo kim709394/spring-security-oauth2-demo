@@ -3,3 +3,5 @@ spring:
     oauth2:
       client:
         registration:
+server:
+  port: 7000
